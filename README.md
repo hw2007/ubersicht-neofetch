@@ -6,7 +6,7 @@ An Übersicht widget to display neofetch results on your mac desktop!
 # One-Command Install
 To install this widget & all of its dependencies, you can run the following command:
 
-`npm install fancy-ansi; brew install neofetch; git clone https://github.com/hw2007/ubersicht-neofetch "~/Library/Application Support/Übersicht/widgets/"`
+`npm install fancy-ansi; brew install neofetch; git clone https://github.com/hw2007/ubersicht-neofetch ~/Library/Application\ Support/Übersicht/widgets/neofetch`
 
 You will of course need Übersicht installed, the command above will not do that for you.
 
