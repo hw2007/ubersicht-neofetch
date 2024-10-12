@@ -1,15 +1,15 @@
 // ----- CONFIG -----
 
-// Hides username@device.lastname.dom from the widget. [true or false, default false]
-const privacyMode = true;
-// Alpha value for background of the widget. [0.0-1.0, default 0.0]
+// Hides username@device.lastname.dom from the widget. 
+const privacyMode = false;
+// Alpha value for background of the widget.
 const backgroundTransparency = 0.0;
 // Position of the widget. If you know how to position something with postion: fixed in CSS, you know how to use this.
 const position = {
-	"top": 0, // default 0
-	"bottom": "auto", // default "auto"
-	"left": 0, // default 0
-	"right": "auto" //default "auto"
+	"top": 0,
+	"bottom": "auto",
+	"left": 0,
+	"right": "auto"
 };
 
 // ----- END OF CONFIG -----
