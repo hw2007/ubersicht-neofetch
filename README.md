@@ -16,4 +16,4 @@ Installing this is super easy! Just follow the steps below:
 # Configuration
 To configure the widget, open the ubersicht-neofetch/main.jsx file. You should see a CONFIG section at the top of the file.
 
-Every option is explained in the file itself.
+There are a few nice options in there, such as positioning the widget, removing personal info, and adding a background. The file contains descriptions of each of the options.
