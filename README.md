@@ -1,17 +1,19 @@
 # ubersicht-neofetch
 An Übersicht widget to display neofetch results on your mac desktop!
 
-![SCR-20241012-lare](https://github.com/user-attachments/assets/54f7d87c-7b41-49bb-bc60-ba3f99f36307)
+![img](https://github.com/user-attachments/assets/88e41c9f-184b-4fda-a5b6-3a37e16304db)
 
-# One-Command Install
-To install this widget & all of its dependencies, you can run the following command:
+# Dependencies
+Just Übersicht! Everything else is included in the file.
 
-`npm install fancy-ansi; brew install neofetch; git clone https://github.com/hw2007/ubersicht-neofetch ~/Library/Application\ Support/Übersicht/widgets/neofetch`
+# Installing
+Installing this is super easy! Just follow the steps below:
 
-You will of course need Übersicht installed, the command above will not do that for you.
+1. Download the ubersicht-neofetch.widget.zip file.
+2. Move the file to `~/Library/Application Support/Übersicht/widgets`.
+3. Unzip the file and enjoy!
 
-The command will download the following dependencies, along with the widget itself:
+# Configuration
+To configure the widget, open the ubersicht-neofetch/main.jsx file. You should see a CONFIG section at the top of the file.
 
-  - fancy-ansi
-
-  - neofetch
+Every option is explained in the file itself.
